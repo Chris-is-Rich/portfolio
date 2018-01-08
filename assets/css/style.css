@@ -18,6 +18,11 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+div.res {
+	display: block;
+	text-align: center;
+
+}
 
 
 a {
